@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modelsim/examples
+T_opt
+!s110 1605446629
+VI80@A<<i_Gi;jC135EfnD0
+04 14 4 work timerTestbench fast 0
+=1-8c89a5095ae6-5fb12be5-f5-23dc
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1605448981
+VM=FMeLPQ09FM2a[UAGmfl3
+04 10 4 work tbClockGen fast 0
+=3-8c89a5095ae6-5fb13514-37b-20d4
+R1
+R2
+n@_opt1
+R3
+R0
+vclockGen
+Z4 !s110 1605449112
+!i10b 1
+!s100 ooRE>g<oDe1FOLcFT8TEJ0
+IYJ0eAaWhDX[oLK2JULofU0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/Users/im/Desktop/Experiment 1/MODELSIM/2.4
+Z7 w1605449072
+Z8 8C:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/clockGenerate.v
+Z9 FC:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/clockGenerate.v
+L0 2
+Z10 OL;L;10.5;63
+r1
+!s85 0
+31
+Z11 !s108 1605449112.000000
+Z12 !s107 C:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/clockGenerate.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/clockGenerate.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+nclock@gen
+vlm_555_timer
+Z15 !s110 1605446620
+!i10b 1
+!s100 :85WG;:cXe16JU[2Bm]P;1
+IJa@4APU0U79^5UReI;NOM2
+R5
+R6
+w1596485324
+8C:/Users/im/Desktop/lm_555_timer.v
+FC:/Users/im/Desktop/lm_555_timer.v
+L0 3
+R10
+r1
+!s85 0
+31
+Z16 !s108 1605446620.000000
+!s107 C:/Users/im/Desktop/lm_555_timer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/im/Desktop/lm_555_timer.v|
+!i113 0
+R14
+R2
+vtbClockGen
+R4
+!i10b 1
+!s100 1_Q>]H<;dS3V?VT_dMokD1
+IHSD`anU^XbkfP^D^Pd68=2
+R5
+R6
+R7
+R8
+R9
+L0 23
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+ntb@clock@gen
+vtimerTestbench
+R15
+!i10b 1
+!s100 PXi7em1QV<Vb6VKLgMCYD0
+IVL;HSJ[LNNXPOLLi^mH`f3
+R5
+R6
+w1605446618
+8C:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/tbTimer50Kohm.v
+FC:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/tbTimer50Kohm.v
+L0 3
+R10
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/tbTimer50Kohm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/tbTimer50Kohm.v|
+!i113 0
+R14
+R2
+ntimer@testbench

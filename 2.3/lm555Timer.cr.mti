@@ -1,0 +1,15 @@
+{C:/Users/im/Desktop/Experiment 1/MODELSIM/tbLMTimer1.v} {1 {vlog -work work -vopt -stats=none {C:/Users/im/Desktop/Experiment 1/MODELSIM/tbLMTimer1.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module timerTestbench
+
+Top level modules:
+	timerTestbench
+
+} {} {}} C:/Users/im/Desktop/lm_555_timer.v {1 {vlog -work work -vopt -stats=none C:/Users/im/Desktop/lm_555_timer.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module lm_555_timer
+
+Top level modules:
+	lm_555_timer
+
+} {} {}}
