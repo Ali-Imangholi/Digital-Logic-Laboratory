@@ -1,0 +1,9 @@
+{C:/Users/im/Desktop/Experiment 1/MODELSIM/3.1/ringOscillaotr.v} {1 {vlog -work work -vopt -stats=none {C:/Users/im/Desktop/Experiment 1/MODELSIM/3.1/ringOscillaotr.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module ringOsillotor
+-- Compiling module tbRingOsillotor
+
+Top level modules:
+	tbRingOsillotor
+
+} {} {}}
