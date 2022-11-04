@@ -1,0 +1,9 @@
+{C:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/clockGenerate.v} {1 {vlog -work work -vopt -stats=none {C:/Users/im/Desktop/Experiment 1/MODELSIM/2.4/clockGenerate.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module clockGen
+-- Compiling module tbClockGen
+
+Top level modules:
+	tbClockGen
+
+} {} {}}
